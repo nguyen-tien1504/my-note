@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "604301f4b1a85359",
+        "id": "06abcc3341559ed2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71e46551728c0264",
+  "active": "06abcc3341559ed2",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "buoi 1.md"
   ]
 }
