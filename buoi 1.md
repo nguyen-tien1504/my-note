@@ -36,4 +36,4 @@ nó là một ngôn ngữ được sử dụng để **tìm và định dạng*
 ```
 
 ## CSS cho element con trong cha
-
+có thể thay đổi display và css nó

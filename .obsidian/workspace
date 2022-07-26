@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "06abcc3341559ed2",
+        "id": "adf78e489707cd11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "buoi 1.md",
+            "file": "buoi 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buoi 1.md",
+                "file": "buoi 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buoi 1.md",
+                "file": "buoi 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buoi 1.md"
+                "file": "buoi 2.md"
               }
             }
           }
@@ -128,9 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06abcc3341559ed2",
+  "active": "adf78e489707cd11",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "buoi 1.md"
+    "buoi 1.md",
+    "Excalidraw/Drawing 2022-07-26 14.50.17.excalidraw.md",
+    "Excalidraw/Drawing 2022-07-26 14.42.53.excalidraw.md",
+    "buoi 2.md",
+    "Untitled Kanban.md"
   ]
 }
